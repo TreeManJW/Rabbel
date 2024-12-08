@@ -1,0 +1,14 @@
+F:\git\Rabbel\bin\Debug\net8.0\Rabbel.exe
+F:\git\Rabbel\bin\Debug\net8.0\Rabbel.deps.json
+F:\git\Rabbel\bin\Debug\net8.0\Rabbel.runtimeconfig.json
+F:\git\Rabbel\bin\Debug\net8.0\Rabbel.dll
+F:\git\Rabbel\bin\Debug\net8.0\Rabbel.pdb
+F:\git\Rabbel\obj\Debug\net8.0\Rabbel.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\Rabbel\obj\Debug\net8.0\Rabbel.AssemblyInfoInputs.cache
+F:\git\Rabbel\obj\Debug\net8.0\Rabbel.AssemblyInfo.cs
+F:\git\Rabbel\obj\Debug\net8.0\Rabbel.csproj.CoreCompileInputs.cache
+F:\git\Rabbel\obj\Debug\net8.0\Rabbel.dll
+F:\git\Rabbel\obj\Debug\net8.0\refint\Rabbel.dll
+F:\git\Rabbel\obj\Debug\net8.0\Rabbel.pdb
+F:\git\Rabbel\obj\Debug\net8.0\Rabbel.genruntimeconfig.cache
+F:\git\Rabbel\obj\Debug\net8.0\ref\Rabbel.dll
